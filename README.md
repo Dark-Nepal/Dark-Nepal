@@ -1,7 +1,7 @@
-### Hi , Wellcome to my profile!! 👋
+
 <h1 align="center">
   <a href="https://ashokcpg.com.np">
-    <img src="https://readme-typing-svg.herokuapp.com?color=00B4AB&size=26&center=true&vCenter=true&width=900&lines=Hi%2C+I+am+django+developer.">
+    <img src="https://readme-typing-svg.herokuapp.com?color=00B4AB&size=26&center=true&vCenter=true&width=900&lines=Hi%2C+Wellcome +to+my+profile 👋.">
   </a>
 </h1>
 
