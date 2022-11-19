@@ -1,9 +1,6 @@
 
-<h1 align="center">
-  <a href="https://ashokcpg.com.np">
-    <img src="https://readme-typing-svg.herokuapp.com?color=00B4AB&size=26&center=true&vCenter=true&width=900&lines=Hi%2C+Wellcome +to+my+profile .">
-  </a>
-</h1>
+    [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+Dark Nepal+Profile)](https://git.io/typing-svg)
+  
 
 
 
